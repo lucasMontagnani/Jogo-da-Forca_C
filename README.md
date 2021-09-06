@@ -12,12 +12,12 @@ Jogo da forca na linguagem C, contando com menu de opções, modo single/multipl
 - [x] Gameloop
 
 ### 📷 Demonstração da aplicação
-<img alt="Menu" src="/readme_images/menu.JPG"/>
+<img alt="Menu" src="/readme_images/menu2.JPG"/>
 <img alt="Singleplayer" src="/readme_images/forca.JPG"/>
 <img alt="Multiplayer" src="/readme_images/pvp1.JPG"/>
 <img alt="Gameloop" src="/readme_images/gameloop.JPG"/>
 <img alt="Gameloop" src="/readme_images/jogando.JPG"/>
-<img alt="Validação" src="/readme_images/validacao.JPG"/>
+<img alt="Validação" src="/readme_images/validacao2.JPG"/>
 
 ### 🚀 Instalação/Pré-requisitos
 <p>Para executar este projeto não será necessário nada mais do que uma IDE compativel com a linguagem C, como por exemplo: Code Blocks, NetBeans, etc.</p>
