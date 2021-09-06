@@ -13,4 +13,8 @@ Jogo da forca na linguagem C, contando com menu de opções, modo single/multipl
 
 <h3>Demonstração da aplicação</h3>
 
-
+<h3>Tecnologias</h3>
+<UL>
+  <LI>Linguagem C</LI>
+  <LI>Recomendavel uma IDE compativel (Code Blocks, NetBeans, etc)</LI>
+</UL>
