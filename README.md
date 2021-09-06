@@ -12,6 +12,12 @@ Jogo da forca na linguagem C, contando com menu de opções, modo single/multipl
 - [x] Gameloop
 
 <h3>Demonstração da aplicação</h3>
+<img alt="Menu" src="/readme_images/menu.JPG"/>
+<img alt="Singleplayer" src="/readme_images/forca.JPG"/>
+<img alt="Multiplayer" src="/readme_images/pvp1.JPG"/>
+<img alt="Gameloop" src="/readme_images/gameloop.JPG"/>
+<img alt="Gameloop" src="/readme_images/jogando.JPG"/>
+
 
 <h3>Tecnologias</h3>
 <UL>
